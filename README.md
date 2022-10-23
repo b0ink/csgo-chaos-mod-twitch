@@ -6,7 +6,7 @@
 ## Integration
 - Enter your twitch username and twitch channel (often same as your username), and generate an OAuth password from https://twitchapps.com/tmi/ using your twitch account to authorize.
 - Enter in your CS:GO server's IP, Port, and RCON passowrd, and press 'Connect'
-- 2 Green ticks will be displayed if the connections were successful, and an 'Open Voting'
+- 2 Green ticks will be displayed if the connections were successful, and an 'Open Voting' button will appear. Click that button to open the voting panel.
 
 <p align="center">
 	<img src="https://csgochaosmod.com/gallery/twitch-overlay/Setup_1.PNG" 	width="250" title="Setup">
