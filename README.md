@@ -3,7 +3,7 @@
 ## Installation
 - Download the latest release and extract the zip file, and run the .exe setup wizard.
 
-## Intergration
+## Integration
 - Enter your twitch username and twitch channel (often same as your username), and generate an OAuth password from https://twitchapps.com/tmi/ using your twitch account to authorize.
 - Enter in your CS:GO server's IP, Port, and RCON passowrd, and press 'Connect'
 - 2 Green ticks will be displayed if the connections were successful, and an 'Open Voting'
