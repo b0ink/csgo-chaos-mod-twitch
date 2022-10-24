@@ -1,5 +1,8 @@
 # CS:GO Chaos Mod Twitch Overlay
 
+## Download
+- Download the latest release: https://github.com/b0ink/csgo-chaos-mod-twitch/releases
+
 ## Installation
 - Download the latest release and extract the zip file, and run the .exe setup wizard.
 
