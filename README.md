@@ -1,5 +1,7 @@
 # CS:GO Chaos Mod Twitch Overlay
 
+(Will be open sourced once the app is cleaned up and refined)
+
 ## Download
 - Download the latest release: https://github.com/b0ink/csgo-chaos-mod-twitch/releases
 
