@@ -25,7 +25,7 @@
 </p>
 
 ### Voting
-If the ConVar `sm_chaos_twitch_enabled` is set to 0 (disabled), the voting panel will prompt you to enable it VIA Rcon. Once enabled, a row of effects should be disabled. The first set of effects will be run on round start
+If the ConVar `sm_chaos_twitch_enabled` is set to 0 (disabled), the voting panel will prompt you to enable it VIA Rcon. Once enabled, a row of effects should be displayed. The first set of effects will be run on round start
 
 <p align="center">
 	<img src="https://csgochaosmod.com/gallery/twitch-overlay/Voting_1.PNG" 	width="250" title="Setup">
