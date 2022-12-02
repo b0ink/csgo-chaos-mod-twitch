@@ -1,5 +1,7 @@
 # CS:GO Chaos Mod Twitch Overlay
 
+Please keep in mind before using: THIS APP IS NOT PERFECT (yet). IT IS BUGGY. IT WILL BREAK.
+
 (Will be open sourced once the app is cleaned up and refined)
 
 ## Download
