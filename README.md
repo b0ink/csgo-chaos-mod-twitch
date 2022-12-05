@@ -47,3 +47,4 @@ Below is a setup on keying out the green from the voting panel, apply a Colour K
 If you experience any weird bugs or errors hit Ctrl+R to reload the app and reconnect to the server.
 
 Only known issue is an error box popping up when the server goes down and breaks the RCON connection.
+You must also ensure the app is not minimised to allow the app to refresh its UI
